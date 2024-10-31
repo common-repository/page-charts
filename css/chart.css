@@ -1,0 +1,29 @@
+.show_chart {
+    background-color: #87CEEB;
+	color:  #0000CD;
+}
+.tbHeader{
+	background-color: #B0C4DE;
+	color: #0000CD;
+}
+.post_names,.submit_library{
+	color: #0000CD;
+}
+.save_post.delete{
+	color: #DC143C;
+	 background-color: #FFB6C1;
+}
+.save_post.change,#submit_name{
+	color: #0000FF;
+	 background-color: #B0C4DE;
+}
+.save_post.duplicate{
+	color: #0000FF;
+	background-color: #DCDCDC;
+}
+.save_post.add{
+	background-color: #9ACD32;
+}
+.new_post {
+   color:  #2E8B57;
+}
